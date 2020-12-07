@@ -329,5 +329,10 @@ namespace Discography_Track
             ESF.Show();
             ESF.FormClosing += new FormClosingEventHandler((sender2, e2) => ESF_FormClosing(sender2, e2, ESF));
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
